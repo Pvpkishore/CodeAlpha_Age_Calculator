@@ -1,7 +1,6 @@
 ```markdown
 # Anime Age Calculator ✨
 
-![Project Banner](https://via.placeholder.com/800x400.png?text=Anime+Age+Calculator+Demo) <!-- Add your screenshot here -->
 
 A beautiful anime-themed age calculator web application built with React, Tailwind CSS, and GSAP animations. Created as part of the CodeAlpha internship program.
 
